@@ -1,0 +1,13 @@
+# Raw Data Directory
+
+This directory contains the original, unprocessed data files used for training and analysis.
+
+## Usage
+- Place original datasets here before preprocessing
+- Keep backup copies of all source data
+- Document data sources and collection methods
+
+## File Naming Convention
+- Use descriptive names with dates: `infrastructure_data_YYYYMMDD.csv`
+- Include source information in filename or metadata
+- Maintain consistent format across files

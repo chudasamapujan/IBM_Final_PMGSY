@@ -1,0 +1,13 @@
+# Processed Data Directory
+
+This directory contains cleaned and preprocessed data ready for model training and analysis.
+
+## Usage
+- Store cleaned datasets after preprocessing
+- Include feature-engineered data
+- Save data in model-ready formats
+
+## File Naming Convention
+- Use descriptive names: `processed_infrastructure_features.csv`
+- Include processing date and version
+- Document preprocessing steps applied
